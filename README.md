@@ -1,2 +1,2 @@
-# Python-Learning
-I'm learning python
+# Python Exercise
+A game of Rock, Paper, Scissors
